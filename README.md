@@ -1,16 +1,16 @@
 ## Olá! Eu sou o Iago Ramos 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20Ramos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-h21/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-h21/)
 
 ---
 
 ### Tecnologias e áreas que utilizo no meu dia a dia 💻
 
-![QA](https://img.shields.io/badge/Quality%20Assurance-Processos-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Automação-yellow?style=flat-square&logo=python&logoColor=white)
-![APIs](https://img.shields.io/badge/Testes-APIs-green?style=flat-square)
-![IA](https://img.shields.io/badge/IA-Machine%20Learning-purple?style=flat-square)
-![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github)
+![QA](https://img.shields.io/badge/Quality%20Assurance-Processos-007ACC?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Automação-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![APIs](https://img.shields.io/badge/Testes-APIs-4CAF50?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-Machine%20Learning-8E44AD?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
