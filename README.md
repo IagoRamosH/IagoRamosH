@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Iago Ramos 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-h21/)
+[![LinkedIn | Iago Ramos](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-h21/)
 
 ---
 
