@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Iago Ramos
 
-<!--
-**IagoRamosH/IagoRamosH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![QA](https://img.shields.io/badge/QA-Engineer-blue)
+![Python](https://img.shields.io/badge/Python-Automação-yellow)
+![APIs](https://img.shields.io/badge/Testes-APIs-green)
+![Status](https://img.shields.io/badge/Status-Em%20Evolução-success)
 
-Here are some ideas to get you started:
+Sou **QA Engineer em formação**, com foco em **qualidade de software**, **testes funcionais** e **automação de testes**.  
+Tenho interesse em garantir sistemas **confiáveis**, **bem testados** e alinhados às **regras de negócio**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Conecte-se comigo
+🔗 [LinkedIn](https://www.linkedin.com/in/iago-ramos-h21/)
