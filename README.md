@@ -6,11 +6,15 @@
 
 ### Tecnologias e áreas que utilizo no meu dia a dia 💻
 
-![QA](https://img.shields.io/badge/Quality%20Assurance-Processos-007ACC?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Automação-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
-![APIs](https://img.shields.io/badge/Testes-APIs-4CAF50?style=for-the-badge)
-![IA](https://img.shields.io/badge/IA-Machine%20Learning-8E44AD?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Testes](https://img.shields.io/badge/Testes-111111?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs%20%7C%20REST-0E7FC0?style=for-the-badge&logo=swagger&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Automação](https://img.shields.io/badge/Automação-2E7D32?style=for-the-badge&logo=robotframework&logoColor=white)
+![IA](https://img.shields.io/badge/IA-7B2CBF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
