@@ -7,7 +7,7 @@
 <br/>
 ---
 
-### Tecnologias e áreas que utilizo no meu dia a dia 💻
+### Tecnologias e áreas de atuação 💻
 
 ![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Testes](https://img.shields.io/badge/Testes-111111?style=for-the-badge&logo=testinglibrary&logoColor=white)
