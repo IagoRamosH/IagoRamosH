@@ -1,42 +1,30 @@
-# 👋 Olá, eu sou o Iago Ramos
+## Olá! Eu sou o Iago Ramos 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20Ramos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-h21/)
-![QA](https://img.shields.io/badge/QA-Engineer-blue?style=flat)
-![Python](https://img.shields.io/badge/Python-Automação-yellow?style=flat&logo=python&logoColor=white)
-![APIs](https://img.shields.io/badge/Testes-APIs-green?style=flat)
-![IA](https://img.shields.io/badge/IA-Machine%20Learning-purple?style=flat)
-![Status](https://img.shields.io/badge/Status-Em%20Evolução-success?style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20Ramos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-h21/)
 
 ---
 
-Sou **QA Engineer em formação**, com foco em **qualidade de software**, **testes funcionais** e **automação de testes**.  
-Atuo de forma **analítica e organizada**, buscando garantir **confiabilidade**, **estabilidade** e **qualidade** em sistemas.
+### Tecnologias e áreas que utilizo no meu dia a dia 💻
 
-Estudo **Python** aplicado à **automação de testes**, **validação de APIs** e **análise de sistemas**, além de possuir conhecimentos em **fundamentos de Inteligência Artificial (Machine Learning)** aplicados à **compreensão e validação de sistemas inteligentes**.
-
----
-
-## 🧪 Atuação
-- Quality Assurance (QA)
-- Testes Funcionais, Integração e Regressão
-- Testes de APIs (REST)
-- Automação de Testes com Python
-- Validação de Regras de Negócio
-- Validação de Sistemas com uso de IA
+![QA](https://img.shields.io/badge/Quality%20Assurance-Processos-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Automação-yellow?style=flat-square&logo=python&logoColor=white)
+![APIs](https://img.shields.io/badge/Testes-APIs-green?style=flat-square)
+![IA](https://img.shields.io/badge/IA-Machine%20Learning-purple?style=flat-square)
+![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github)
 
 ---
 
-## 🛠️ Tecnologias & Competências
-- **Python**
-- **JavaScript**
-- **Testes Manuais e Automatizados**
-- **Testes de API**
-- **Git & GitHub**
-- **Fundamentos de Machine Learning**
-- **Metodologias Ágeis (Scrum)**
+Sou **profissional em formação na área de Tecnologia da Informação**, com foco atual em **Quality Assurance**, **qualidade de software**, **testes funcionais**, **validação de sistemas** e **automação de testes**.
+
+Tenho interesse em compreender o **ciclo completo de desenvolvimento de software**, atuando de forma analítica e organizada, colaborando com diferentes áreas técnicas e contribuindo para a **confiabilidade**, **estabilidade** e **evolução contínua dos sistemas**.
+
+Atualmente aprofundo estudos em **Python aplicado à automação**, **testes de APIs** e **fundamentos de Inteligência Artificial (Machine Learning)**, com o objetivo de ampliar minha visão sobre **sistemas modernos e inteligentes**.
 
 ---
 
-## 🎯 Objetivo
-Atuar como **QA Engineer**, contribuindo para a entrega de sistemas **estáveis, bem testados e alinhados às necessidades do negócio**, utilizando **boas práticas de qualidade**, **automação** e **conhecimento em IA** como diferencial técnico.
+📌 **Objetivo:**  
+Atuar na área de **Tecnologia da Informação**, com ênfase em **qualidade, processos e engenharia de software**, mantendo abertura para **desenvolvimento técnico**, **automação**, **gestão de processos** e **coordenação de equipes**, conforme a evolução profissional.
 
+---
+
+🤝 **Aberto a conexões, colaborações e aprendizado contínuo.**
